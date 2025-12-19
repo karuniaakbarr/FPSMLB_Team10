@@ -52,7 +52,7 @@ This repository contains code, datasets, and analysis results for the final proj
 - Text Encoder: **IndoBERTweet**
 - Approach: **Semi-Supervised Learning**
   - Mean Teacher
-  - Unsupervised Self-Training (UST)
+  - Uncertainty-aware Self-Training (UST)
 - Evaluation Metric: **Weighted F1-score**
 
 ---
